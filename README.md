@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iurab
-- 👀 I’m interested in Python, Simulink
+- 👀 I’m interested in Matlab, Simulink and Python
 - 💞️ I’m looking to collaborate on any topic or project 😀
 - 📫 How to reach me: iura.alin@gmail.com
 - 📁 Portfolios:
