@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @iurab
-- 👀 I’m interested in Python, Simulink, Haskell, Blockchain
-- 🌱 I’m currently learning Haskell
+- 👀 I’m interested in Python, Simulink
 - 💞️ I’m looking to collaborate on any topic or project 😀
 - 📫 How to reach me: iura.alin@gmail.com
 - 📁 Portfolios:
